@@ -19,3 +19,13 @@ Android WebView, Ash). Even if these products have multiple executables, the
 code should be in subdirectories of the product.
 
 If you found a bug, please file it at https://crbug.com/new.
+
+# For Monochromium
+
+Since Chromium is a huge and very complex system, I first have to understand how it works before I start developing Monochromium. Plus, since I've last coded in C++, I have forgotten a lot of stuff.
+Long story short, I won't be active on this repo for quite some months.
+
+## Main Goals with Monochromium
+
+Monochromium is going to be a simplicity-based, and privacy-based open-source browser. The reason why I named it 'Mono'chromium, is because its only main purpose, that sets it apart from Chromium will be its enhanced privacy.
+The main "search engine" on it will be SearXNG, with the use of Tor networking. Also, I will probably cut down on the unnecessary features that Chromium has by default.
